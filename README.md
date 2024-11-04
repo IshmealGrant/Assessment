@@ -1,2 +1,2 @@
 # Assessment
-Intro to Git
+Intro to GitHub
